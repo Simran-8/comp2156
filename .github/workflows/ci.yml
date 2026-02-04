@@ -1,4 +1,4 @@
-name: CI
+name: CI - COMP 2156
 on:
   push:
     branches: [ "main" ]
